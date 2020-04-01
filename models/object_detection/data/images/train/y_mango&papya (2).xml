@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Double photo</folder>
+	<filename>WIN_20200325_20_23_31_Pro.jpg</filename>
+	<path>D:\Fruit\Double photo\WIN_20200325_20_23_31_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>papya</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>235</ymin>
+			<xmax>588</xmax>
+			<ymax>458</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>yellow_mango</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>652</xmin>
+			<ymin>306</ymin>
+			<xmax>906</xmax>
+			<ymax>636</ymax>
+		</bndbox>
+	</object>
+</annotation>

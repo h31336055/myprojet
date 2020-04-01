@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Three shot</folder>
+	<filename>WIN_20200325_20_35_30_Pro.jpg</filename>
+	<path>D:\Fruit\Three shot\WIN_20200325_20_35_30_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yellow_mango</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>430</ymin>
+			<xmax>884</xmax>
+			<ymax>672</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>red mango</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>238</ymin>
+			<xmax>483</xmax>
+			<ymax>487</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>papya</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>472</xmin>
+			<ymin>216</ymin>
+			<xmax>709</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+</annotation>

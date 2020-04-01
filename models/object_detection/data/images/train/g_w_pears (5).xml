@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Double photo</folder>
+	<filename>WIN_20200325_20_26_45_Pro.jpg</filename>
+	<path>D:\Fruit\Double photo\WIN_20200325_20_26_45_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>green pear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>417</xmin>
+			<ymin>176</ymin>
+			<xmax>654</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>western pear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>410</xmin>
+			<ymin>260</ymin>
+			<xmax>697</xmax>
+			<ymax>604</ymax>
+		</bndbox>
+	</object>
+</annotation>

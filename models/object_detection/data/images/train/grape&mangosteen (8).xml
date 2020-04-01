@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Double photo</folder>
+	<filename>WIN_20200325_20_42_53_Pro.jpg</filename>
+	<path>D:\Fruit\Double photo\WIN_20200325_20_42_53_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mangosteen</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>239</xmin>
+			<ymin>288</ymin>
+			<xmax>454</xmax>
+			<ymax>509</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>grape</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>397</xmin>
+			<ymin>216</ymin>
+			<xmax>854</xmax>
+			<ymax>519</ymax>
+		</bndbox>
+	</object>
+</annotation>
