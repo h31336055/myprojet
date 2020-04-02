@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Family photo</folder>
+	<folder>Fruit</folder>
 	<filename>WIN_20200325_21_17_22_Pro.jpg</filename>
-	<path>D:\Fruit\Family photo\WIN_20200325_21_17_22_Pro.jpg</path>
+	<path>D:\Fruit\WIN_20200325_21_17_22_Pro.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,39 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>water melon</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>260</xmin>
-			<ymin>253</ymin>
-			<xmax>464</xmax>
-			<ymax>547</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>kiwi fruit</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>389</xmin>
-			<ymin>384</ymin>
-			<xmax>651</xmax>
-			<ymax>580</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>papya</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>425</xmin>
-			<ymin>208</ymin>
-			<xmax>723</xmax>
-			<ymax>422</ymax>
+			<xmin>434</xmin>
+			<ymin>210</ymin>
+			<xmax>732</xmax>
+			<ymax>430</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +29,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>570</xmin>
-			<ymin>185</ymin>
-			<xmax>841</xmax>
-			<ymax>343</ymax>
+			<xmin>578</xmin>
+			<ymin>186</ymin>
+			<xmax>832</xmax>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>water melon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>262</xmin>
+			<ymin>246</ymin>
+			<xmax>464</xmax>
+			<ymax>537</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>kiwi fruit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>381</xmin>
+			<ymin>376</ymin>
+			<xmax>642</xmax>
+			<ymax>590</ymax>
 		</bndbox>
 	</object>
 </annotation>
