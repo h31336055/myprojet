@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Bread</folder>
+	<filename>WIN_20200401_13_07_08_Pro.jpg</filename>
+	<path>D:\Bread\WIN_20200401_13_07_08_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>twist bread</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>593</xmin>
+			<ymin>443</ymin>
+			<xmax>836</xmax>
+			<ymax>622</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>482</xmin>
+			<ymin>287</ymin>
+			<xmax>639</xmax>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+</annotation>

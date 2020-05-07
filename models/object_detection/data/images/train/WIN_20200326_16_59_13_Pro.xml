@@ -1,0 +1,26 @@
+<annotation>
+	<folder>solo</folder>
+	<filename>WIN_20200326_16_59_13_Pro.jpg</filename>
+	<path>D:\bread\solo\WIN_20200326_16_59_13_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sandwich</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>521</xmin>
+			<ymin>235</ymin>
+			<xmax>923</xmax>
+			<ymax>510</ymax>
+		</bndbox>
+	</object>
+</annotation>

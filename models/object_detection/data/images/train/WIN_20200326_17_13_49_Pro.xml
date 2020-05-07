@@ -1,0 +1,38 @@
+<annotation>
+	<folder>twice</folder>
+	<filename>WIN_20200326_17_13_49_Pro.jpg</filename>
+	<path>D:\bread\twice\WIN_20200326_17_13_49_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>croissant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>502</xmin>
+			<ymin>323</ymin>
+			<xmax>734</xmax>
+			<ymax>592</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hot dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>617</xmin>
+			<ymin>269</ymin>
+			<xmax>1031</xmax>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+</annotation>

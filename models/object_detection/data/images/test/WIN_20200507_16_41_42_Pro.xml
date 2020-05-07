@@ -1,0 +1,50 @@
+<annotation>
+	<folder>new b</folder>
+	<filename>WIN_20200507_16_41_42_Pro.jpg</filename>
+	<path>C:\Users\User\Desktop\new b\WIN_20200507_16_41_42_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cupcake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>784</xmin>
+			<ymin>218</ymin>
+			<xmax>974</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>808</xmin>
+			<ymin>511</ymin>
+			<xmax>995</xmax>
+			<ymax>695</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>twist bread</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>355</xmin>
+			<ymin>299</ymin>
+			<xmax>534</xmax>
+			<ymax>489</ymax>
+		</bndbox>
+	</object>
+</annotation>

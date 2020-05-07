@@ -1,0 +1,50 @@
+<annotation>
+	<folder>new b</folder>
+	<filename>WIN_20200507_16_51_55_Pro.jpg</filename>
+	<path>C:\Users\User\Desktop\new b\WIN_20200507_16_51_55_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>croissant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>761</xmin>
+			<ymin>402</ymin>
+			<xmax>951</xmax>
+			<ymax>604</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hot dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>432</xmin>
+			<ymin>157</ymin>
+			<xmax>925</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>cupcake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>517</xmin>
+			<ymin>382</ymin>
+			<xmax>724</xmax>
+			<ymax>587</ymax>
+		</bndbox>
+	</object>
+</annotation>

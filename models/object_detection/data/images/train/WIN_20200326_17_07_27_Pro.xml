@@ -1,0 +1,38 @@
+<annotation>
+	<folder>twice</folder>
+	<filename>WIN_20200326_17_07_27_Pro.jpg</filename>
+	<path>D:\bread\twice\WIN_20200326_17_07_27_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>twist bread</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>382</xmin>
+			<ymin>312</ymin>
+			<xmax>570</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>croissant</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>618</xmin>
+			<ymin>235</ymin>
+			<xmax>840</xmax>
+			<ymax>542</ymax>
+		</bndbox>
+	</object>
+</annotation>

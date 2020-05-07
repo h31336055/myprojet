@@ -1,0 +1,26 @@
+<annotation>
+	<folder>solo</folder>
+	<filename>WIN_20200326_17_00_53_Pro.jpg</filename>
+	<path>D:\bread\solo\WIN_20200326_17_00_53_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>twist bread</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>424</xmin>
+			<ymin>283</ymin>
+			<xmax>592</xmax>
+			<ymax>399</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>solo</folder>
+	<filename>WIN_20200326_17_02_31_Pro.jpg</filename>
+	<path>D:\bread\solo\WIN_20200326_17_02_31_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mango tart</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>408</xmin>
+			<ymin>226</ymin>
+			<xmax>594</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>
